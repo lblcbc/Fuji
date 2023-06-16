@@ -11,5 +11,5 @@ I do hope however that sharing this code allows the app to live on a little bit 
 ![MBS1](https://github.com/lblcbc/Fuji/assets/136857271/cbe22acd-ce05-4866-ae3f-88bf80211107)
 ![MBS2](https://github.com/lblcbc/Fuji/assets/136857271/25f5c9e8-4f6a-4bf9-8087-0d418bf3df83)
 ![MB3](https://github.com/lblcbc/Fuji/assets/136857271/ceea9052-1116-45f4-985c-f8b4b1818dcb)
-![IPS6 2](https://github.com/lblcbc/Fuji/assets/136857271/29fbbd7d-a6f4-4267-9a6e-7a28c590ac37)
+![MBS4 2](https://github.com/lblcbc/Fuji/assets/136857271/0531b1fa-83e4-420d-8942-5a9ed3ac92e8)
 ![MBS5](https://github.com/lblcbc/Fuji/assets/136857271/7c867951-fa75-4332-912a-04b19f948850)
