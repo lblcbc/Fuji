@@ -7,4 +7,11 @@ This was a nice little project using SwiftUI, hoping to both get better at the S
 
 I do hope however that sharing this code allows the app to live on a little bit longer – perhaps aiding other like-minded people looking to build a SwiftUI app, as the goodwill of other coders invaluably guided me throughout this project ☺️. 
 
-![bbbig](https://github.com/lblcbc/Fuji/assets/136857271/29ff2855-3040-4efb-adb5-4f6c1e466885)
+
+![MBS1](https://github.com/lblcbc/Fuji/assets/136857271/cbe22acd-ce05-4866-ae3f-88bf80211107)
+![MBS2](https://github.com/lblcbc/Fuji/assets/136857271/25f5c9e8-4f6a-4bf9-8087-0d418bf3df83)
+![MB3](https://github.com/lblcbc/Fuji/assets/136857271/ceea9052-1116-45f4-985c-f8b4b1818dcb)
+![IPS3](https://github.com/lblcbc/Fuji/assets/136857271/1dff6f34-de81-41b6-a584-a22cf69e07b4)
+![IPM5](https://github.com/lblcbc/Fuji/assets/136857271/8e42c89e-7b27-4fc4-a0cc-982d0703ed34)
+![IPS6 2](https://github.com/lblcbc/Fuji/assets/136857271/29fbbd7d-a6f4-4267-9a6e-7a28c590ac37)
+![MBS5](https://github.com/lblcbc/Fuji/assets/136857271/7c867951-fa75-4332-912a-04b19f948850)
