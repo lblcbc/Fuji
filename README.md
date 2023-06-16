@@ -24,8 +24,6 @@ I do hope however that sharing this code allows the app to live on a little bit 
 * Connected with RevenueCat API for app-subscriptions
 
 
-
-
 ![MBS1](https://github.com/lblcbc/Fuji/assets/136857271/cbe22acd-ce05-4866-ae3f-88bf80211107)
 ![MBS2](https://github.com/lblcbc/Fuji/assets/136857271/25f5c9e8-4f6a-4bf9-8087-0d418bf3df83)
 ![MB3](https://github.com/lblcbc/Fuji/assets/136857271/ceea9052-1116-45f4-985c-f8b4b1818dcb)
