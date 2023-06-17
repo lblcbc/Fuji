@@ -23,6 +23,8 @@ I do hope however that sharing this code allows the app to live on a little bit 
 * Sign in With Apple integration, connected to Firebase Auth
 * Connected with RevenueCat API for app-subscriptions
 
+Main thing I would update:
+* Move date and time of day retrieving code line into functions where it's needed, rather than initialising once for that view. This fixes the minor task organisation issues when app isn't "refreshed" for a long time.
 
 ![MBS1](https://github.com/lblcbc/Fuji/assets/136857271/cbe22acd-ce05-4866-ae3f-88bf80211107)
 ![MBS2](https://github.com/lblcbc/Fuji/assets/136857271/25f5c9e8-4f6a-4bf9-8087-0d418bf3df83)
