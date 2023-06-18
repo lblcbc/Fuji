@@ -26,7 +26,7 @@ I do hope however that sharing this code allows the app to live on a little bit 
 Main thing I would update:
 * Move date and time of day retrieving code line into functions where it's needed, rather than initialising once for that view. This fixes the minor task organisation issues when app isn't "refreshed" for a long time.
 
-![MBS1](https://github.com/lblcbc/Fuji/assets/136857271/cbe22acd-ce05-4866-ae3f-88bf80211107)
+![MBS1](https://github.com/lblcbc/Fuji/assets/136857271/8ce7221c-3782-46d7-a0b1-21a0d8998d12)
 ![MBS2](https://github.com/lblcbc/Fuji/assets/136857271/25f5c9e8-4f6a-4bf9-8087-0d418bf3df83)
 ![MB3](https://github.com/lblcbc/Fuji/assets/136857271/ceea9052-1116-45f4-985c-f8b4b1818dcb)
 ![MBS4 2](https://github.com/lblcbc/Fuji/assets/136857271/0531b1fa-83e4-420d-8942-5a9ed3ac92e8)
