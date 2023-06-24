@@ -27,7 +27,7 @@ struct FujiApp: App {
         
         
         Purchases.logLevel = .debug
-        Purchases.configure(withAPIKey: "XXXXXXXXXXX")
+        Purchases.configure(withAPIKey: "XXXXXXXXXXX") // <-- replace with your RevenueCat API key
     }
     
     var body: some Scene {
