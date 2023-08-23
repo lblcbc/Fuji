@@ -19,7 +19,7 @@ I do hope however that sharing this code allows the app to live on a little bit 
 * Allows for reccuring tasks, weekly or monthly
 * Create, edit, focus and complete tasks efficiently (some nice custom-model array code)
 * Real-time (seriously 😎) cross-device syncing
-* Fully optimised (practically) database reliance with Firebase Firestore (aka, safe to scale with very low costs)
+* Fully optimised (practically) database reliance with Firebase Firestore (i.e., safe to scale with very low costs)
 * Sign in with Apple integration, connected to Firebase Auth
 * Connected with RevenueCat API for app-subscriptions
 
