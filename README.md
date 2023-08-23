@@ -12,7 +12,7 @@ I do hope however that sharing this code allows the app to live on a little bit 
 * Focus analytics (time in focus, tasks completed)
 * Beautiful UI and UX, with wide customisability, and of course, haptics on iOS iPadOS 😌
 * Privacy at the core
-* Coded entirely in Swift/SwiftUI, and fully compliant with App Store Review Guidelines (April 2022)
+* Coded entirely in Swift/SwiftUI, and fully compliant with App Store Review Guidelines (April 2023)
 
 ### Super-highlight features:
 * Extra smart 🤓: Type recognition to automatically set deadlines, both on a date level (ex. tomorrow, end of month (eom)) and time-level (ex. morning, midday, etc)
