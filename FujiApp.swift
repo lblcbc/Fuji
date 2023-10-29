@@ -20,10 +20,9 @@ struct FujiApp: App {
         FirebaseApp.configure()
         
         let settings = FirestoreSettings()
-        settings.isPersistenceEnabled = false
-        
-        let firestore = Firestore.firestore()
-        firestore.settings = settings
+        settings.cacheSettings = MemoryCacheSettings()
+        let db = Firestore.firestore()
+        db.settings = settings
         
         
         Purchases.logLevel = .debug
