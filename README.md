@@ -23,7 +23,7 @@ I do hope however that sharing this code allows the app to live on a little bit 
 * Sign in with Apple integration, connected to Firebase Authentication
 * Connected with RevenueCat API for app-subscriptions
 
-* 
+ 
 
 ![MBS1](https://github.com/lblcbc/Fuji/assets/136857271/8ce7221c-3782-46d7-a0b1-21a0d8998d12)
 ![MBS2](https://github.com/lblcbc/Fuji/assets/136857271/ee991f82-c6b0-4087-acd7-1d568f6f8a8f)
